@@ -4,5 +4,15 @@
   "description": "Generate unique(ish) colors for city names using Dopplr's algorithm",
   "main": "index.js",
   "author": "Jeff Long",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "assertive": "^1.4.0",
+    "mocha": "^1.21.4"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
 }
