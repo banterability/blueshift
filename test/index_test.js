@@ -1,15 +1,16 @@
 var assert = require('assertive'),
     dc = require('../index'),
-    fs = require('fs');
+    fs = require('fs'),
+    knownColors;
 
-KNOWN_COLORS = JSON.parse(fs.readFileSync('./test/known_values.json', 'utf-8'));
+knownColors = JSON.parse(fs.readFileSync('./test/known_values.json', 'utf-8'));
 
 describe('dopplr-colors', function(){
   describe('known color-city pairs', function(){
-    Object.keys(KNOWN_COLORS).forEach(function(city){
+    Object.keys(knownColors).forEach(function(city){
       it('generates the correct color for ' + city, function(){
         var actual, expected;
-        expected = KNOWN_COLORS[city];
+        expected = knownColors[city];
         actual = dc(city);
         assert.equal(expected, actual);
       });
