@@ -1,6 +1,6 @@
 {
   "name": "dopplr-colors",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generate unique(ish) colors for city names using Dopplr's algorithm",
   "main": "index.js",
   "author": "Jeff Long",
