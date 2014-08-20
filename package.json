@@ -17,5 +17,13 @@
   },
   "scripts": {
     "test": "mocha"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/banterability/blueshift.git"
+  },
+  "bugs": {
+    "url": "https://github.com/banterability/blueshift/issues"
+  },
+  "homepage": "https://github.com/banterability/blueshift"
 }
