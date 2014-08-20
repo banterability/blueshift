@@ -1,5 +1,5 @@
-dopplr-colors
--------------
+blueshift
+---------
 
 Generate unique(ish) colors for city names using Dopplr's algorithm.
 
@@ -18,15 +18,15 @@ Installation
 ============
 
 ```shell
-npm install dopplr-colors --save
+npm install blueshift --save
 ```
 
 Usage
 =====
 
 ```javascript
-var dc = require('dopplr-colors');
+var blueshift = require('blueshift');
 
-console.log(dc('San Francisco'));
+console.log(blueshift('San Francisco'));
 // -> '#f4334f'
 ```
