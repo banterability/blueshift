@@ -3,6 +3,8 @@ blueshift
 
 Generate unique(ish) colors for city names using Dopplr's algorithm.
 
+[![Build Status](https://travis-ci.org/banterability/blueshift.svg?branch=master)](https://travis-ci.org/banterability/blueshift)
+
 About
 =====
 
