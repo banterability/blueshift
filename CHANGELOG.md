@@ -1,3 +1,9 @@
+2.0.2
+-----
+* Update dependencies
+* Test against more versions of Node
+* Formatting & style changes
+
 2.0.1
 -----
 * Update package metadata
