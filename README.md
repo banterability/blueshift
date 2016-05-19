@@ -29,6 +29,6 @@ Usage
 ```javascript
 var blueshift = require('blueshift');
 
-console.log(blueshift('San Francisco'));
+blueshift('San Francisco');
 // -> '#f4334f'
 ```
