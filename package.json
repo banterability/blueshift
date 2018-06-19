@@ -10,12 +10,14 @@
   },
   "devDependencies": {
     "assertive": "^2.1.1",
-    "mocha": "^2.4.5"
+    "mocha": "^2.4.5",
+    "prettier": "^1.13.5"
   },
   "directories": {
     "test": "test"
   },
   "scripts": {
+    "prettier": "prettier --write '**/*.js'",
     "test": "mocha"
   },
   "repository": {
