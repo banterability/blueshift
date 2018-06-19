@@ -6,7 +6,7 @@
   "author": "Jeff Long",
   "license": "MIT",
   "dependencies": {
-    "md5": "^2.x"
+    "md5": "2.2.1"
   },
   "devDependencies": {
     "assertive": "^2.1.1",
