@@ -1,6 +1,6 @@
 {
   "name": "blueshift",
-  "version": "2.0.2",
+  "version": "2.1.0",
   "description": "Generate unique(ish) colors for city names using Dopplr's algorithm",
   "main": "index.js",
   "author": "Jeff Long",

@@ -1,3 +1,8 @@
+2.1
+---
+* Switch test runner to Jest
+* Style & formatting cleanup
+
 2.0.2
 -----
 * Update dependencies
