@@ -1,12 +1,10 @@
-blueshift
----------
+## blueshift
 
 Generate unique(ish) colors for city names using Dopplr's algorithm.
 
 [![Build status](https://img.shields.io/circleci/project/github/banterability/blueshift/master.svg)](https://circleci.com/gh/banterability/blueshift/tree/master) [![Latest published version](https://img.shields.io/npm/v/blueshift.svg)](https://www.npmjs.com/package/blueshift)
 
-About
-=====
+# About
 
 In 2007, the team at Dopplr posted about their technique for [generating colors for cities](http://blog.dopplr.com/2007/10/23/in-rainbows/).
 
@@ -16,19 +14,17 @@ That link no longer works, because the internet is cruel, but here are the relev
 
 This is that, basically.
 
-Installation
-============
+# Installation
 
 ```shell
-npm install blueshift --save
+npm install blueshift
 ```
 
-Usage
-=====
+# Usage
 
 ```javascript
-var blueshift = require('blueshift');
+var blueshift = require("blueshift");
 
-blueshift('San Francisco');
+blueshift("San Francisco");
 // -> '#f4334f'
 ```
