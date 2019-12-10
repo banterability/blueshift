@@ -1,3 +1,7 @@
+2.1.1
+-----
+* Documentation & dependency updates
+
 2.1
 ---
 * Switch test runner to Jest
