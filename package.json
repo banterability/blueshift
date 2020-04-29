@@ -9,7 +9,7 @@
     "md5": "2.2.1"
   },
   "devDependencies": {
-    "jest": "25.4.0",
+    "jest": "25.5.1",
     "prettier": "2.0.5"
   },
   "directories": {
