@@ -1,0 +1,6 @@
+.circleci/
+.github/
+.nvmrc
+.prettierignore
+.prettierrc
+__tests__/
