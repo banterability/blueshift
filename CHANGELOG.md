@@ -1,3 +1,8 @@
+3.0.0
+-----
+* Stop using deprecated `substr` method
+* Update dependencies & underlying Node version
+
 2.1.1
 -----
 * Documentation & dependency updates
