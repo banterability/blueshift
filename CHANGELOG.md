@@ -1,3 +1,9 @@
+4.0.0
+-----
+* Remove all remaining runtime dependencies
+* Migrate from Jest to Vitest
+* Slim down files included in published package
+
 3.0.0
 -----
 * Stop using deprecated `substr` method
