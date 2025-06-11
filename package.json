@@ -6,12 +6,12 @@
   "author": "Jeff Long",
   "license": "MIT",
   "devDependencies": {
-    "jest": "29.7.0",
-    "prettier": "3.5.3"
+    "prettier": "3.5.3",
+    "vitest": "^3.2.3"
   },
   "scripts": {
     "prettier": "prettier --write '**/*.js'",
-    "test": "jest"
+    "test": "vitest"
   },
   "repository": {
     "type": "git",
