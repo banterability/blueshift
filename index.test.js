@@ -1,6 +1,6 @@
 const blueshift = require("./index.js");
 
-KNOWN_COLORS = {
+const KNOWN_COLORS = {
   Austin: "#54c326",
   Chicago: "#9cfa1e",
   Fargo: "#02d55b",
