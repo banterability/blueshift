@@ -2,7 +2,7 @@
 
 Generate unique(ish) colors for city names using Dopplr's algorithm.
 
-[![Build status](https://img.shields.io/circleci/project/github/banterability/blueshift/master.svg)](https://circleci.com/gh/banterability/blueshift/tree/master) [![Latest published version](https://img.shields.io/npm/v/blueshift.svg)](https://www.npmjs.com/package/blueshift)
+[![🚦 CI](https://github.com/banterability/blueshift/actions/workflows/ci.yml/badge.svg)](https://github.com/banterability/blueshift/actions/workflows/ci.yml) [![Latest published version](https://img.shields.io/npm/v/blueshift.svg)](https://www.npmjs.com/package/blueshift)
 
 # About
 
