@@ -9,7 +9,7 @@
   "author": "Jeff Long",
   "license": "MIT",
   "devDependencies": {
-    "prettier": "3.6.0",
+    "prettier": "3.6.2",
     "vitest": "^3.2.3"
   },
   "scripts": {
